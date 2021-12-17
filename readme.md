@@ -5,6 +5,7 @@ An all-in-one file (actually 4 files of various sizes, wait no, 3, github won't 
 
 XXSmall is small enough to be uploaded to Glitch and the P5 editor, but doesn't contain many normal-but-less-common words.
 
+Example of using it in p5: [https://editor.p5js.org/galaxykate/sketches/iz1bC4PN6](https://editor.p5js.org/galaxykate/sketches/iz1bC4PN6) or a [Google Colab](https://colab.research.google.com/drive/1Y3Q_VQ9aHN_8-cxoYr13lkAZEO67N6kS?usp=sharing)
 
 Columns: 
 
