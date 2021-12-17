@@ -8,11 +8,18 @@ XXSmall is small enough to be uploaded to Glitch and the P5 editor, but doesn't 
 
 Columns: 
 
-0: word
+0: word 
+
 1: total wordcount in Subtlex, subtitle frequencies (https://www.kaggle.com/lukevanhaezebrouck/)
+
 2: total wordcount in the Google 3 Trillion web scrape (https://www.kaggle.com/rtatman/english-word-frequency 
+
 3: pronunciation from the CMU Pronouncing Dictionary (https://github.com/Alexir/CMUdict)
+
 4: Part-of-speech confidence (from Subtlex)
+
 5: Part-of-speech (from Subtlex)
+
 6: Allison Parrish's pronunciation vectors (trained on the CMU pronunciations) https://github.com/aparrish/phonetic-similarity-vectors 
+
 7: Word meaning vectors (100d model) (https://www.kaggle.com/anindya2906/glove6b)
